@@ -4,10 +4,10 @@ const dateFormat = require("../utils/dateFormat");
 
 const UserSchema = new Schema(
   {
-    userName: {
+    username: {
       type: String,
       required: true,
-      unique: true,
+    //   unique: true,
       trim: true,
     },
     email: {
@@ -22,8 +22,18 @@ const UserSchema = new Schema(
         "Please fill a valid email address",
       ],
     },
-    thoughts: [],
-    friends: [],
+    thoughts: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: "Thought",
+          },
+    ],
+    friends: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: "User",
+          },
+    ],
   },
   {
     toJSON: {
