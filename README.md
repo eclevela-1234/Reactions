@@ -12,6 +12,8 @@
 
 [Usage Information](#usage-information)
 
+[Demo Video](#video)
+
 [Contribution Guidelines](#contribution-guidelines)
 
 [Collaboration Credits](#collaboration-credits)
@@ -20,7 +22,6 @@
 
 [License](#license)
 
-[Demo Video](#video)
 
 
 ## Installation Instructions
