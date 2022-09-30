@@ -4,6 +4,8 @@
 
 **A backend for a social media application using Node, Express, MongoDB, and Mongoose for data structuring in the NoSQL database. This was a great opportunity to get some more practice building RESTful APIs and Modularizion of controllers and routes. This app used a less verbose form of defining controller methods thanks to new ES6 dialects. Had fun on this project and overall pleased with the end result**
 
+![screenshot](./assets/images/screenshot.png)
+
 ## Table of Contents
 
 
