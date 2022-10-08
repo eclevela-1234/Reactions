@@ -32,7 +32,8 @@ Mongoose and Node environments are both necessary to install this application lo
 Documents can be added and modified through the RESTful API via postman or insomnia. See controller directory for specifics of the routes. Watch tutorial video for more information and to see CRUD methods in action.
 
 ## Video
-[Open link](https://youtu.be/xqgECkKkkGY) to view a brief [video](https://youtu.be/xqgECkKkkGY) tutorial of Reactions' capabilties.
+
+[Open link](https://drive.google.com/file/d/1fa_ERaLpCj5Fde9Svz7KlanWZ7WVw4JZ/view) to view a brief [video](https://drive.google.com/file/d/1fa_ERaLpCj5Fde9Svz7KlanWZ7WVw4JZ/view) tutorial of the app's capabilties.
 ## Contribution Guidelines
 
 For any questions about the app or to contribute, please reach out via email.
